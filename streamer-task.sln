@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "streamer-task", "streamer-task\streamer-task.csproj", "{E6558D90-774E-40FB-A50E-B0EB9C251908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "streamer-task-test", "streamer-task-test\streamer-task-test.csproj", "{A54B46C5-17B4-4054-9005-479719CB2816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6558D90-774E-40FB-A50E-B0EB9C251908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6558D90-774E-40FB-A50E-B0EB9C251908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6558D90-774E-40FB-A50E-B0EB9C251908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6558D90-774E-40FB-A50E-B0EB9C251908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54B46C5-17B4-4054-9005-479719CB2816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54B46C5-17B4-4054-9005-479719CB2816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54B46C5-17B4-4054-9005-479719CB2816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54B46C5-17B4-4054-9005-479719CB2816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F21B01A4-43FA-4EA4-B5F6-1D58D0B1AA55}
+	EndGlobalSection
+EndGlobal
